@@ -32,6 +32,8 @@
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=mui)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  
   
   
 - 🛢 &nbsp;
