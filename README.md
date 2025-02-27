@@ -5,12 +5,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👋 A software Engineer in training
-- 🌍  I'm based in Nigeria
+- 👋 A software Engineer
+- 🌍  I'm based in Astana, Kazakhstan
 - 👀 I have a passion for problem-solving and creating efficient and elegant solutions to complex challenges. 
 - 🌱 I’m currently learning nodejs, expressjs and mongoDB
 - 💞️ I’m looking to collaborate on full stack projects
-- 👯 I’m looking for a software development internship.
+
 
 
 
